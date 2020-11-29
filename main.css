@@ -1,0 +1,25 @@
+body
+{
+	background: url(backimg.jpg);
+}
+
+h1, h2
+{
+	font-family: 'comfortaa';
+	text-align: center;
+	margin: 50px;
+}
+
+h3
+{
+	font-family: 'Poiret one';
+	text-align: center;
+	margin: 50px;
+	font-size: 25px;
+}
+
+.gif
+{
+	display: flex;
+	justify-content: center;
+}
